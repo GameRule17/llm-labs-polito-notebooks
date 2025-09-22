@@ -1,2 +1,3 @@
-# llm-labs-polito-notebooks
-Large Language Models - A.Y. 2025/26 - Labs Repository.
+## Large Language Models @ PoliTo
+
+This is the repository for the labs of *Large Language Models* course at Politecnico di Torino. 
